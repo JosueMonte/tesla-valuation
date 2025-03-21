@@ -1,5 +1,4 @@
 # Análisis Financiero de Tesla con Gobernanza de Datos
-Este proyecto demuestra mi capacidad para analizar datos financieros de Tesla utilizando MySQL y Tableau Public, con un fuerte enfoque en gobernanza de datos.
 
 ## Objetivo
 Analizar los estados financieros de Tesla (ingresos, balances, flujos de efectivo) asegurando la calidad y estructura de los datos mediante prácticas de gobernanza.
