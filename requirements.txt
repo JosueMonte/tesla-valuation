@@ -211,6 +211,6 @@ xlrd==2.0.1
 xyzservices==2023.10.1
 y-py==0.6.2
 yahoo-fin==0.8.9.1
-yfinance==0.2.50
+yfinance==0.2.55
 ypy-websocket==0.12.4
 zipp==3.19.2
